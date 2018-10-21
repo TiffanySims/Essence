@@ -35,7 +35,4 @@ $('.js-scroll-book').click(function(){
 
 });
 
-if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-    document.querySelector(".card__cta a").href = "#";   //change url
-    
-}
+
