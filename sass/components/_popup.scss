@@ -12,12 +12,6 @@
     transition: all .3s;
     
     
-    @include respond(phone){
-        
-       display: none;
-        
-        
-    }
     
     &:target{
     opacity: 1;

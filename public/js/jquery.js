@@ -34,3 +34,8 @@ $('.js-scroll-book').click(function(){
     $(".navigation__checkbox").prop('checked',false);
 
 });
+
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    document.querySelector("card__cta a").href = "#";   //change url
+    
+}
