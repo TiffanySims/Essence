@@ -191,19 +191,19 @@
               <img
                 src="public/img/ropes.jpeg"
                 photo1
-                alt="photo1"
+                alt="exercise"
                 class="composition__photo composition__photo--p1"
               />
 
               <img
                 src="public/img/nat-2-large.jpg"
-                alt=""
+                alt="exercise"
                 class="composition__photo composition__photo--p2"
               />
 
               <img
                 src="public/img/nat-3-large.jpg"
-                alt=""
+                alt="exercise"
                 class="composition__photo composition__photo--p3"
               />
             </div>
